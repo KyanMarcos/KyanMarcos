@@ -1,7 +1,7 @@
 ## Sobre mim:
 🇧🇷✌️
 Sou um cidadão brasileiro comum com um sonho de se tornar programador, será que dará certo?
-<img align="down" alt="Meu servidor no Discord" src="https://discordapp.com/api/guilds/690284954432569625/widget.png?style=banner1"/>
+![Discord Banner 1](https://discordapp.com/api/guilds/690284954432569625/widget.png?style=banner1)
 
 ## Minhas redes sociais:
 
