@@ -1,9 +1,9 @@
-## Olá, eu me chamo Kyan!
+### Olá, eu me chamo Kyan! ✌️
 ## Sobre mim:
 🇧🇷✌️
 Sou um cidadão brasileiro comum com um sonho de se tornar programador, será que dará certo?
 
-### Minhas redes sociais:
+## Minhas redes sociais:
 
 [<img align="left" alt="Meu servidor no Discord  " width="22px" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" />][discord]
 [<img align="left" alt="Twitch" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111727.svg" />][twitch]
