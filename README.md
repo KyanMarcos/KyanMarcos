@@ -16,4 +16,4 @@ Sou um cidadão brasileiro comum com um sonho de se tornar programador, será qu
 
 ## <br />
 
-<img src="https://discordapp.com/api/guilds/690284954432569625/widget.png?style=banner1" alt="Discord Banner 1"/>
+<img src="https://discordapp.com/api/guilds/690284954432569625/widget.png?style=banner2" alt="Discord Banner 2"/>
