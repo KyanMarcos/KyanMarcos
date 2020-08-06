@@ -1,12 +1,8 @@
 ### Olá, eu me chamo Kyan!
 
-<br />
-
 ## Sobre mim:
 🇧🇷✌️
 Sou um cidadão brasileiro comum com um sonho de se tornar programador, será que dará certo?
-
-<br />
 
 ### Minhas redes sociais:
 
