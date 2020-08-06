@@ -14,4 +14,4 @@ Sou um cidadão brasileiro comum com um sonho de se tornar programador, será qu
 [twitter]: https://twitter.com/kyanmarcos
 [youtube]: https://www.youtube.com/channel/UCR0IA6JFTcuVGFNcc0TeqYA
 
-<iframe src="https://discordapp.com/widget?id=690284954432569625&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[<iframe src="https://discordapp.com/widget?id=690284954432569625&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>][discord]
