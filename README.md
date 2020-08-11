@@ -1,5 +1,5 @@
 ## Sobre mim:
-🇧🇷 | Sou um cidadão brasileiro comum com um sonho de se tornar programador, será que dará certo?
+🇧🇷 | Sou um cidadão brasileiro comum com alguns projetos em mente.
 
 ## Minhas redes sociais:
 
