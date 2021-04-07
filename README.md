@@ -1,4 +1,4 @@
-## Sobre mim:
+# Sobre mim:
 Sou um cidadão brasileiro comum com alguns projetos em mente.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" align="left" alt="Twitch" width="22px" />][twitch]
