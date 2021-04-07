@@ -1,5 +1,5 @@
 # Sobre mim:
-Sou um cidadão brasileiro comum com alguns projetos em mente.
+Sou um youtuber/streamer pequeno com alguns projetos em mente.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" align="left" alt="Twitch" width="22px" />][twitch]
 [<img src="https://upload.wikimedia.org/wikipedia/pt/3/3d/Twitter_logo_2012.svg" align="left" alt="Twitter" width="30px" />][twitter]
